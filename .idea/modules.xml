@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EventAnimation-master.iml" filepath="$PROJECT_DIR$/EventAnimation-master.iml" />
+      <module fileurl="file://C:\Users\osaos\Documents\EventAnimation-master\EventAnimation_JoseCarlosGuerraRobles.iml" filepath="C:\Users\osaos\Documents\EventAnimation-master\EventAnimation_JoseCarlosGuerraRobles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\osaos\Documents\EventAnimation-master\app\app.iml" filepath="C:\Users\osaos\Documents\EventAnimation-master\app\app.iml" />
+    </modules>
+  </component>
+</project>
